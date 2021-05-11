@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Orelega One', cursive;
+}
+.form-control{
+   margin: 0px 420px;
+   margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-left: 640px;
+    margin-top: 20px;
+}
+#card1{
+    color: violet;
+}
+#card2{
+    color: blue;
+}
+#card3{
+    color:  #00ffff;
+}
+#card4{
+    color: #00ff00;
+}
+#card5{
+    color: 
+
+     #ff9900;
+}
+#card6{
+    color: #4d0000;
+}
+
+#para1,#para2,#para3,#para4,#para5,#para6{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.card1:hover{
+    background-color: #669999;
+    color: black;
+}
+.card2:hover{
+    background-color:  #66e0ff;
+    color: black;
+}
+.card3:hover{
+    background-color: #cc99ff;
+    color: black;
+}
+.card4:hover{
+    background-color: #aaff00;
+    color: black;
+}
+.card5:hover{
+    background-color: #888844;
+    color: black;
+}
+.card6:hover{
+    background-color: #ff3333;
+    color: black;
+}
+
+.card1,.card2,.card3,.card4,.card5,.card6{
+    border-radius: 5px;
+}
+
+.cnt,.date{
+    text-align: center;
+    color: #ff3333;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+#date{
+    color: navy;
+}
+#box{
+
+    background-color: grey;
+    border-radius: 4px;
+
+}
+#cd{
+    text-shadow: 2px 2.5px  rgba(110, 11, 32, 0.6);
+}

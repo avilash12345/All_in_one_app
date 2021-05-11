@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#main_div{
+	background-image: url('im1.jpg');
+	height: 350px;
+}
+
+#input{
+	margin: 0px 350px;
+	font-weight: bold;
+	font-size: 1rem;
+}
+#btn{
+	margin-left: 75%;
+	margin-top: -38px;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+#btn:hover{
+	background-color: #00cc00;
+	color: whitesmoke;
+}
